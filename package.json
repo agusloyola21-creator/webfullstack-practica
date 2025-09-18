@@ -1,6 +1,10 @@
 {
+    
+  
+  
   "name": "agencia_marketing",
   "version": "0.1.0",
+  "homepage": "/static",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^2.2.0",
@@ -58,3 +62,6 @@
     "typescript": "^4.9.5"
   }
 }
+
+
+
